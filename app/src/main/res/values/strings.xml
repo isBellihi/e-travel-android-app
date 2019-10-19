@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">e_Travel</string>
+    <string name="menu_login">Log in</string>
+    <string name="menu_logout">Log out</string>
+    <string name="login_label">Log In</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="send_text">Send</string>
+    <string name="lorem">Lorem ntum vivermrkljjjjjjjjjjjjjjjkllllllllllllllllllllllllllllllll,ml,ml,lllllllllldit rhoncus odio porttitor. Phasellus nibh arcu.</string>
+    <string name="title_sign_in">Welcome</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="hint_password">password</string>
+    <string name="hint_email">email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="heading_recent">Recent</string>
+    <string name="heading_my_posts">My Posts</string>
+    <string name="heading_my_top_posts">Top Posts</string>
+    <string name="facebook_app_id">309711456592398</string>
+    <string name="fb_login_protocol_scheme">fb309711456592398</string>
+    <string name="depart">depart</string>
+    <string name="arriver">arrive</string>
+    <string name="Hdeppart">HHHHH</string>
+    <string name="Harriver">XXXXx</string>
+    <string name="prix"> 23 DH</string>
+    <string name="nbplace"> 13</string>
+    <string name="statu"></string>
+
+
+</resources>
